@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UXDESIGN/build/static/css/main.e20de607.css",
+    "main.js": "/UXDESIGN/build/static/js/main.725b2cdc.js",
+    "static/js/787.5863b875.chunk.js": "/UXDESIGN/build/static/js/787.5863b875.chunk.js",
+    "index.html": "/UXDESIGN/build/index.html",
+    "main.e20de607.css.map": "/UXDESIGN/build/static/css/main.e20de607.css.map",
+    "main.725b2cdc.js.map": "/UXDESIGN/build/static/js/main.725b2cdc.js.map",
+    "787.5863b875.chunk.js.map": "/UXDESIGN/build/static/js/787.5863b875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e20de607.css",
+    "static/js/main.725b2cdc.js"
+  ]
+}
